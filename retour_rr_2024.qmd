@@ -1,0 +1,88 @@
+---
+title: "Rencontres R 2024"
+format: 
+  revealjs:
+    theme: "assets/custom.scss"
+title-slide-attributes:
+    data-background-image: /img/logo_rr_2024.png
+    data-background-position: 50% 90%
+    data-background-size: 35%
+---
+
+![](img/panneau.jpg){fig-align="center"}
+
+## Un espace de rencontres
+
+![](img/mariniere.jpg){fig-align="center"}
+
+## Et du contenu
+
+![](img/group.png)
+
+## Des tutoriels - Torch
+
+![](img/tuto_torch.jpg)
+
+## Des tutoriels - Rix
+
+![](img/tuto_rix.jpg){fig-align="center"}
+
+## Des conférences - Onyxia
+
+![](img/onyxia.jpg){fig-align="center"}
+
+## Des conférences - webR
+
+![](img/webr.jpg){fig-align="center"}
+
+## Des conférences - esquisse
+
+![](img/esquisse.jpg){fig-align="center"}
+
+## Des conférences - Git
+
+![](img/saperlipopette.jpg){fig-align="center"}
+
+## Des conférences - Excel
+
+![](img/excel.jpg){fig-align="center"}
+
+## Des conférences - SK8
+
+![](img/sk8.jpg){fig-align="center"}
+
+## Des conférences - scimo
+
+![](img/scimo.jpg){fig-align="center"}
+
+## Plein de maths
+
+![](img/voxel.jpg){fig-align="center"}
+
+## Des posters
+
+![](img/poster.jpg){fig-align="center"}
+
+## Quelques liens
+
+-   [Refactoring (Vincent Guyader)](https://connect.thinkr.fr/refactoring/rr2024_refactring.html#/title-slide)
+
+-   [WebR (Colin Fay)](https://connect.thinkr.fr/rr2024-webr/webr-rr-2024.html#/title-slide)
+
+-   [Onyxia (Romain Lesur)](rlesur.github.io/rr2024)
+
+-   [Excel (Thomas Vroylandt)](https://tvroylandt.github.io/rr_2024/prez_nettoyage_excel_kantiles.html#/title-slide)
+
+-   [Poster (Tanguy Barthélémy)](https://github.com/TanguyBarthelemy/rr2024)
+
+Et bien d'autres à venir !
+
+## L'an prochain à Mons !
+
+19-20-21 mai 2025
+
+![](img/logo_mons.png){fig-align="center"}
+
+## Partenaires
+
+![](img/partenaires.png){fig-align="center"}
