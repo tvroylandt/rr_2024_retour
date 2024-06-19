@@ -4,7 +4,7 @@ format:
   revealjs:
     theme: "assets/custom.scss"
 title-slide-attributes:
-    data-background-image: /img/logo_rr_2024.png
+    data-background-image: img/logo_rr_2024.png
     data-background-position: 50% 90%
     data-background-size: 35%
 ---
