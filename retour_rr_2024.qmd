@@ -83,6 +83,6 @@ Et bien d'autres à venir !
 
 ![](img/logo_mons.png){fig-align="center"}
 
-## Partenaires
+## Partenaires 
 
 ![](img/partenaires.png){fig-align="center"}
